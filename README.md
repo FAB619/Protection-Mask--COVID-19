@@ -23,6 +23,34 @@ These shields will help protect their eyes and face from coughing and sneezing o
 The design is only on simple printed part, it took only 1h 35min to be printed, it's fast and easy for assembly with no screws or metal parts needed to fix the system.
 
 
+# 3D print parameters
+
+* **Material:** PLA
+
+
+* **Print Time:** 1h 35min
+
+
+* **Nozzle diameter:** 0.4 mm
+
+
+* **LayerHeight:** 0.25 mm
+
+
+* **Top Layers:** 4 Layers
+
+
+* **Bottom Layers:** 4 Layers
+
+
+* **Infill:** 10%-15%
+
+
+* **Default Speed:** 60 mm/s
+
+
+
+
 # Result
 
 ![](../master/images/2.jpg)
@@ -68,6 +96,8 @@ and the fabrication of th model was done thanks to the 3d printing network in Tu
 # License 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The design is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
+
+We share these files under non-commerical licence. It would be great if you donated these shields to those in need for free. If you need to cover your production costs, we are ok with you selling the shields for production cost.
 
 # Note 
 This documentation will be continuously improved as soon there are updates for doctors needs.
