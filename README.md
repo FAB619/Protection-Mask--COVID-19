@@ -32,6 +32,9 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 
 ## 3D print Parameters:
 
+![](../master/images/10.JPG)
+
+
 * **Material:** PLA
 
 
@@ -55,15 +58,29 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 
 * **Default Speed:** 60 mm/s
 
+**Download: ** [Link](https://github.com/FAB619/Protection-Mask--COVID-19/tree/master/Files)
+
+
 ## Laser Cut: 
 
 ![](../master/images/TRANSPARENT.JPG)
+
+**Download: ** [Link](https://github.com/FAB619/Protection-Mask--COVID-19/tree/master/Files)
 
 
 
 
 
 # Result
+
+![](../master/images/8.jpg)
+
+
+![](../master/images/7.jpg)
+
+
+![](../master/images/9.jpg)
+
 
 ![](../master/images/2.jpg)
 
