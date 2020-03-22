@@ -1,6 +1,6 @@
 # TN-Mask 2020 | COVID-19 
 
-![](../images/1.jpg)
+![](../master/images/1.jpg)
 
 In respond the help call launched by Dr Boulaymen Ilyes of  Ben Arous hospital, engineering students from the ** ENIT ** and ** ENIM ** are voluntarily mobilizing to manufacture protective masks, using 3D printing techniques, by putting all the 3D printers available in Tunis at the service of this action. 
 **FABLAB ENIT ** and the engineering students will use their printers to make this action a complete success.
