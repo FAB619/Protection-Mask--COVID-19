@@ -23,10 +23,10 @@ These shields will help protect their eyes and face from coughing and sneezing o
 The design is only on simple printed part, it took only 1h 35min to be printed, it's fast and easy for assembly with no screws or metal parts needed to fix the system.
 
 
-![](../master/images/PosterTN_MASK 2020.jpg)
+![](../master/images/12.jpg)
 
 
-![](../master/images/PosterTN_MASK 20202.jpg)
+![](../master/images/13.jpg)
 
 
 
@@ -79,7 +79,7 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 # Result
 
 
-![](../master/images/PosterTN_MASK 20203.jpg)
+![](../master/images/14.jpg)
 
 ![](../master/images/8.jpg)
 
