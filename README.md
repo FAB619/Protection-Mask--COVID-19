@@ -1,8 +1,8 @@
 # TN-Mask 2020 | COVID-19 
 
-![](../images/1.jpg)
+![](../master/images/1.jpg)
 
-In respond the help call launched by Dr Boulaymen Ilyes of  Ben Arous hospital, engineering students from the ** ENIT ** and ** ENIM ** are voluntarily mobilizing to manufacture protective masks, using 3D printing techniques, by putting all the 3D printers available in Tunis at the service of this action. 
+In respond the help call launched by Dr Boulaymen Ilyes of  Ben Arous hospital, engineering students from the **ENIT** and **ENIM** are voluntarily mobilizing to manufacture protective masks, using 3D printing techniques, by putting all the 3D printers available in Tunis at the service of this action. 
 **FABLAB ENIT ** and the engineering students will use their printers to make this action a complete success.
 
 The mask designed by engineering students is a 3D printed face shield, to be placed over a conventional surgical mask. It protects the eyes and blocks the spread of microbes and germs.
@@ -40,7 +40,7 @@ and the fabrication of th model was done thanks to the 3d printing network in Tu
 
 ....
 
-![](../Protection-Mask--COVID-19/images/logos.JPG)
+![](../master/images/logos.JPG)
 
 
 # License 
