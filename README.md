@@ -21,7 +21,28 @@ These shields will help protect their eyes and face from coughing and sneezing o
 # Design
 
 The design is only on simple printed part, it took only 1h 35min to be printed, it's fast and easy for assembly with no screws or metal parts needed to fix the system.
-add a d
+
+
+# Result
+
+![](../master/images/2.jpg)
+
+
+![](../master/images/3.jpg)
+
+
+![](../master/images/4.jpg)
+
+
+![](../master/images/6.jpg)
+
+
+![](../master/images/5.jpg)
+
+
+
+
+
 
 # Acknowledgements
 
