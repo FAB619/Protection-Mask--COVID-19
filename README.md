@@ -38,7 +38,7 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 * **Material:** PLA
 
 
-* **Print Time:** 1h 35min
+* **Print Time:** 1h 12min
 
 
 * **Nozzle diameter:** 0.4 mm
@@ -61,9 +61,9 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 **Download: ** [Link](https://github.com/FAB619/Protection-Mask--COVID-19/tree/master/Files)
 
 
-## Laser Cut: 
+## Cut: 
 
-![](../master/images/TRANSPARENT.JPG)
+![](../master/images/11.JPG)
 
 **Download: ** [Link](https://github.com/FAB619/Protection-Mask--COVID-19/tree/master/Files)
 
