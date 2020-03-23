@@ -32,7 +32,6 @@ The design is only on simple printed part, it took only 1h 35min to be printed, 
 
 
 
-
 # Fabrication
 
 ## 3D print Parameters:
