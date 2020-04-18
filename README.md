@@ -1,6 +1,6 @@
 # TN-Mask 2020 | COVID-19 
 
-![](../master/images/DOC_TN_MASK 2020.png)
+![](../master/images/DOC_TN_MASK%202020.png)
 
 ![](../master/images/DOC_TN_MASK 20202.png)
 
